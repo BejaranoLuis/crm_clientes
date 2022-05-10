@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eduardo bejarano",
+      "empresa": "bejarano sa de cv",
+      "email": "laloeduasdf@gmail.com",
+      "telefono": "6672349812",
+      "notas": "",
+      "id": 2
+    }
+  ]
+}
